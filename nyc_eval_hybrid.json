@@ -1,0 +1,44 @@
+{
+ "static": {
+  "coverage": 1.0,
+  "MAPE": 29.81,
+  "bias_pct": 0.98,
+  "within_20pct": 40.9,
+  "corr_within_pair": 0.0
+ },
+ "snap": {
+  "coverage": 1.0,
+  "MAPE": 21.64,
+  "bias_pct": 1.91,
+  "within_20pct": 55.9,
+  "corr_within_pair": 0.669
+ },
+ "td": {
+  "coverage": 1.0,
+  "MAPE": 21.63,
+  "bias_pct": 1.88,
+  "within_20pct": 55.9,
+  "corr_within_pair": 0.67
+ },
+ "ha": {
+  "coverage": 1.0,
+  "MAPE": 18.16,
+  "bias_pct": -3.27,
+  "within_20pct": 63.6,
+  "corr_within_pair": 0.567
+ },
+ "td_pair": {
+  "coverage": 1.0,
+  "MAPE": 17.55,
+  "bias_pct": 0.47,
+  "within_20pct": 65.8,
+  "corr_within_pair": 0.67
+ },
+ "ha_x_td": {
+  "coverage": 0.972,
+  "MAPE": 17.05,
+  "bias_pct": 0.04,
+  "within_20pct": 67.5,
+  "corr_within_pair": 0.64
+ }
+}

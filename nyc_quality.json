@@ -1,0 +1,39 @@
+{
+ "ez_coverage_by_borough_median": {
+  "Brooklyn": 0.837,
+  "Manhattan": 0.915,
+  "Queens": 0.954,
+  "Staten Island": 0.895
+ },
+ "ez_segments_cov_ge_80pct": 240,
+ "ez_speed_kmh_p5_p50_p95": [
+  3.1,
+  21.5,
+  65.7
+ ],
+ "dot_coverage_by_borough_median": {
+  "Bronx": 0.97,
+  "Brooklyn": 0.801,
+  "Manhattan": 0.684,
+  "Queens": 0.977,
+  "Staten Island": 0.963
+ },
+ "dot_links_cov_ge_80pct": 81,
+ "dot_speed_mph_p5_p50_p95": [
+  7.4,
+  42.2,
+  59.0
+ ],
+ "yellow_trips_total": 7238094,
+ "yellow_intra_manhattan_clean": 5695856,
+ "manhattan_zones": 69,
+ "od_slot_cells_with_ge5_trips": 133824,
+ "od_pairs_with_ge5_trips_per_15min_median_over_weekday_peak": null,
+ "peak_slot_pairs_ge5_median": 37.0,
+ "peak_slot_pairs_ge1_median": 770.5,
+ "trip_duration_min_p50_p90": [
+  12.0,
+  24.4
+ ],
+ "pairs_total_possible": 4692
+}

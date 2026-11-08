@@ -1,0 +1,80 @@
+{
+ "edges": 9917,
+ "km_total": 1174.525608214426,
+ "ez_edges": 801,
+ "ez_km": 102.55535258517486,
+ "ez_sensors_matched": 176,
+ "dot_edges": 157,
+ "dot_km": 33.43326751175908,
+ "dot_sensors_matched": 25,
+ "observed_share_length_manhattan": 0.115781741279929,
+ "ez_matched_length_ratio_median_p10_p90": [
+  1.0005284704074282,
+  0.9856716866632484,
+  1.035356947260985
+ ],
+ "core_edges": 2211,
+ "core_km": 273.80199126737693,
+ "core_observed_share_length": 0.2774199610829163,
+ "core_observed_share_edges": 0.3310719131614654,
+ "core_by_highway": {
+  "living_street": {
+   "km": 1.773,
+   "obs_share": 0.0
+  },
+  "motorway": {
+   "km": 2.272,
+   "obs_share": 0.059
+  },
+  "motorway_link": {
+   "km": 3.43,
+   "obs_share": 0.13
+  },
+  "primary": {
+   "km": 59.186,
+   "obs_share": 0.596
+  },
+  "primary_link": {
+   "km": 0.116,
+   "obs_share": 0.0
+  },
+  "residential": {
+   "km": 101.64,
+   "obs_share": 0.037
+  },
+  "secondary": {
+   "km": 85.649,
+   "obs_share": 0.42
+  },
+  "secondary_link": {
+   "km": 0.561,
+   "obs_share": 0.0
+  },
+  "tertiary": {
+   "km": 8.844,
+   "obs_share": 0.0
+  },
+  "tertiary_link": {
+   "km": 0.081,
+   "obs_share": 0.0
+  },
+  "trunk": {
+   "km": 0.589,
+   "obs_share": 0.0
+  },
+  "trunk_link": {
+   "km": 0.682,
+   "obs_share": 0.106
+  },
+  "unclassified": {
+   "km": 8.979,
+   "obs_share": 0.028
+  }
+ },
+ "core_nodes": 1148,
+ "core_scc_largest": 1084,
+ "core_observed_subgraph_scc_largest": 448,
+ "core_route_observed_share_median": 0.4517263944348464,
+ "core_route_share_ge50pct": 0.43547849283094364,
+ "core_route_km_median": 2.828820794495735
+}

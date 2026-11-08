@@ -1,0 +1,108 @@
+{
+ "core_zones": 19,
+ "zones": [
+  [
+   48,
+   "Clinton East",
+   55
+  ],
+  [
+   68,
+   "East Chelsea",
+   63
+  ],
+  [
+   90,
+   "Flatiron",
+   29
+  ],
+  [
+   100,
+   "Garment District",
+   22
+  ],
+  [
+   107,
+   "Gramercy",
+   70
+  ],
+  [
+   141,
+   "Lenox Hill West",
+   31
+  ],
+  [
+   142,
+   "Lincoln Square East",
+   58
+  ],
+  [
+   161,
+   "Midtown Center",
+   51
+  ],
+  [
+   162,
+   "Midtown East",
+   49
+  ],
+  [
+   163,
+   "Midtown North",
+   31
+  ],
+  [
+   164,
+   "Midtown South",
+   38
+  ],
+  [
+   170,
+   "Murray Hill",
+   85
+  ],
+  [
+   186,
+   "Penn Station/Madison Sq West",
+   16
+  ],
+  [
+   229,
+   "Sutton Place/Turtle Bay North",
+   29
+  ],
+  [
+   230,
+   "Times Sq/Theatre District",
+   32
+  ],
+  [
+   233,
+   "UN/Turtle Bay South",
+   39
+  ],
+  [
+   234,
+   "Union Sq",
+   51
+  ],
+  [
+   236,
+   "Upper East Side North",
+   95
+  ],
+  [
+   237,
+   "Upper East Side South",
+   91
+  ]
+ ],
+ "trips": 1975192,
+ "pairs_with_trips": 342,
+ "trip_min_p10_p50_p90": [
+  4.9,
+  10.6,
+  21.1
+ ],
+ "trip_miles_p50": 1.25
+}
